@@ -36,5 +36,4 @@ def wordle():
     else:
         print("Sorry, you've run out of attempts. The correct word was '%s'."%word)
 
-#wordle()
-print(words())
+wordle()
